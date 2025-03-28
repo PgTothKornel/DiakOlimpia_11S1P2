@@ -1,0 +1,9 @@
+diákolimpia
+
+le kell tárolni egy ilyen versenyhez a szükséges adatokat, labdarugás, kézilabda, röplabda, ilyászat
+minden verseny minden mérkőzésnél le kell rögzíteni, időpont, nevek, végeredmény, kiesettek(sorrend),pontszámok
+
+adatbázist kell hozzá készíteni megfelelő táblákákkal, fiktív adatokkal feltöltve min 10-10 csapat
+
+eredmények megjelenítése, felhasználó barát módon
+le kell adni: verseny leírásai, pontszámok stb (ami fontos lehet),
