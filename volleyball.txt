@@ -1,0 +1,13 @@
+-A csapatok (az adatbázisban elérhető ID)
+- A mérkőzés ideje ('Dátuma')
+- Időkérések száma
+- Sikeres 'Ász nyitások' száma
+- A nyitásnál való hibák száma
+- Sikeres támadások száma
+- Blokkolt támadások száma
+- Sikeres blokkok száma
+- Blokkérintések száma
+- Sikeres fogadások/védések száma
+- Hibás a fogadások/védekezések száma
+- Teljes játékidő
+
